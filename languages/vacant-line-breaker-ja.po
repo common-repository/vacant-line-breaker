@@ -1,0 +1,97 @@
+# Copyright (C) 2010 Vacant Line BReaker
+# This file is distributed under the same license as the Vacant Line BReaker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vacant Line BReaker\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/vacant-line-breaker\n"
+"POT-Creation-Date: 2011-03-01 16:50:51+00:00\n"
+"PO-Revision-Date: 2011-03-23 01:23+0900\n"
+"Last-Translator: Kazuma YAGYU <info@hennayagyu.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: vacant-line-breaker.php:72
+msgid "Break lines in"
+msgstr "適用する箇所"
+
+#: vacant-line-breaker.php:74
+msgid "both posts and comments"
+msgstr "記事本文とコメント"
+
+#: vacant-line-breaker.php:75
+msgid "only posts"
+msgstr "記事本文のみ"
+
+#: vacant-line-breaker.php:76
+msgid "only comments"
+msgstr "コメントのみ"
+
+#: vacant-line-breaker.php:80
+msgid "Break lines with"
+msgstr "改行タグのフォーマット"
+
+#: vacant-line-breaker.php:82
+msgid "&lt;br /&gt;s"
+msgstr "&lt;br /&gt;タグ"
+
+#: vacant-line-breaker.php:83
+msgid "&lt;br&gt;s"
+msgstr "&lt;br&gt;タグ"
+
+#: vacant-line-breaker.php:87
+msgid "Wrap paragraphs with"
+msgstr "段落を囲うタグ"
+
+#: vacant-line-breaker.php:89
+msgid "&lt;p&gt; tags"
+msgstr "&lt;p&gt;タグ"
+
+#: vacant-line-breaker.php:90
+msgid "none"
+msgstr "none"
+
+#: vacant-line-breaker.php:94
+msgid "Shortcodes"
+msgstr "ショートコード"
+
+#: vacant-line-breaker.php:95
+msgid "* Each shortcodes should be separated with a |"
+msgstr "※ショートコードを複数指定する場合、「|」で各ショートコードを分割します"
+
+#: vacant-line-breaker.php:100
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: vacant-line-breaker.php:134
+msgid "Settings"
+msgstr "Settings"
+
+#. Plugin Name of the plugin/theme
+msgid "Vacant Line BReaker"
+msgstr "Vacant Line BReaker"
+
+#. #-#-#-#-#  plugin.pot (Vacant Line BReaker 0.4)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Vacant Line BReaker 0.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://hennayagyu.com/"
+msgstr "http://hennayagyu.com/"
+
+#. Description of the plugin/theme
+msgid "Wordpress ignores multiple line breaks normaly. This plugin puts &lt;br /&gt; tags as may as line breaks."
+msgstr "WordPressは2行以上の改行を無視してしまいますが、このプラグインは行末に&lt;br /&gt;を追加します。"
+
+#. Author of the plugin/theme
+msgid "Kazuma YAGYU"
+msgstr "柳生 一真"
+
+#~ msgid ""
+#~ "This plugin puts a &lt;br /&gt; tag at the ends of post's lines even if "
+#~ "the line was vacant."
+#~ msgstr ""
+#~ "空の改行にも &lt;br /&gt; タグを入れて、投稿時の改行を反映させます。"

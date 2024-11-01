@@ -1,0 +1,90 @@
+# Copyright (C) 2010 Vacant Line BReaker
+# This file is distributed under the same license as the Vacant Line BReaker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vacant Line BReaker 0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/vacant-line-breaker\n"
+"POT-Creation-Date: 2011-03-22 16:22:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: vacant-line-breaker.php:72
+msgid "Break lines in"
+msgstr ""
+
+#: vacant-line-breaker.php:74
+msgid "both posts and comments"
+msgstr ""
+
+#: vacant-line-breaker.php:75
+msgid "only posts"
+msgstr ""
+
+#: vacant-line-breaker.php:76
+msgid "only comments"
+msgstr ""
+
+#: vacant-line-breaker.php:80
+msgid "Break lines with"
+msgstr ""
+
+#: vacant-line-breaker.php:82
+msgid "&lt;br /&gt;s"
+msgstr ""
+
+#: vacant-line-breaker.php:83
+msgid "&lt;br&gt;s"
+msgstr ""
+
+#: vacant-line-breaker.php:87
+msgid "Wrap paragraphs with"
+msgstr ""
+
+#: vacant-line-breaker.php:89
+msgid "&lt;p&gt; tags"
+msgstr ""
+
+#: vacant-line-breaker.php:90
+msgid "none"
+msgstr ""
+
+#: vacant-line-breaker.php:94
+msgid "Shortcodes"
+msgstr ""
+
+#: vacant-line-breaker.php:95
+msgid "* Each shortcodes should be separated with a |"
+msgstr ""
+
+#: vacant-line-breaker.php:100
+msgid "Save Changes"
+msgstr ""
+
+#: vacant-line-breaker.php:134
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Vacant Line BReaker"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Vacant Line BReaker 0.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Vacant Line BReaker 0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://hennayagyu.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Wordpress ignores multiple line breaks normaly. This plugin puts &lt;br /"
+"&gt; tags as may as line breaks."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kazuma YAGYU"
+msgstr ""

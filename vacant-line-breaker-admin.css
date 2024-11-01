@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#wrap-vlbr table.widefat
+	{ width:auto; }
+#wrap-vlbr table.widefat th,
+#wrap-vlbr table.widefat td
+	{ font-size:100%; }
+#wrap-vlbr select
+	{ font-size:100%; }
+#wrap-vlbr option
+	{ padding:2px 10px; }
+#wrap-vlbr span.caution
+	{ display:block; }
